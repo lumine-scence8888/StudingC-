@@ -1,0 +1,5 @@
+/Users/asamitomo/Projects/Test/Test/bin/Debug/Test.exe
+/Users/asamitomo/Projects/Test/Test/obj/x86/Debug/Test.exe
+/Users/asamitomo/Projects/Test/Test/bin/Debug/Test.pdb
+/Users/asamitomo/Projects/Test/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/asamitomo/Projects/Test/Test/obj/x86/Debug/Test.pdb

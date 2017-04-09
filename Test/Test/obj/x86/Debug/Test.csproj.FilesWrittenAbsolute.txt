@@ -1,0 +1,5 @@
+/Users/asamitomo/Projects/Test/Test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/asamitomo/Projects/Test/Test/bin/Debug/Test.exe.mdb
+/Users/asamitomo/Projects/Test/Test/bin/Debug/Test.exe
+/Users/asamitomo/Projects/Test/Test/obj/x86/Debug/Test.exe
+/Users/asamitomo/Projects/Test/Test/obj/x86/Debug/Test.exe.mdb

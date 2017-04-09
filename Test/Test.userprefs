@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1B24F0B5-EA84-421B-A54C-8658CD3CA29C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/TestClassKeisyou.cs">
+    <Files>
+      <File FileName="Test/TestClassKurasu.cs" Line="12" Column="25" />
+      <File FileName="Test/TestClassKeisyou.cs" Line="14" Column="28" />
+      <File FileName="Test/TestTestMain.cs" Line="12" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
