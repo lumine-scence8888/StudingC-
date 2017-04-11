@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{1B24F0B5-EA84-421B-A54C-8658CD3CA29C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Test/TestClassKeisyou.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/AbstractChild.cs">
     <Files>
-      <File FileName="Test/TestClassKurasu.cs" Line="12" Column="25" />
-      <File FileName="Test/TestClassKeisyou.cs" Line="14" Column="28" />
-      <File FileName="Test/TestTestMain.cs" Line="12" Column="48" />
+      <File FileName="Test/TestClassKeisyou.cs" Line="22" Column="3" />
+      <File FileName="Test/TestClassKurasu.cs" Line="18" Column="5" />
+      <File FileName="Test/AbstractParent.cs" Line="12" Column="1" />
+      <File FileName="Test/AbstractChild.cs" Line="9" Column="56" />
+      <File FileName="Test/TestTestMain.cs" Line="21" Column="1" />
+      <File FileName="Test/ParcialClass01.cs" Line="9" Column="20" />
+      <File FileName="Test/ParcialClass02.cs" Line="11" Column="1" />
+      <File FileName="Test/ParcialClass03.cs" Line="7" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

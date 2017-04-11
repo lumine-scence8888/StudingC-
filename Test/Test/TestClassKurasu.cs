@@ -18,7 +18,7 @@ namespace Test
 			{
 				return h;
 			}
-			/*set
+			/*set	//どっちかのアクセサを書かなくても良い。アクセッサメソッドの必要性がなくなる。
 			{
 				h = value;
 			}*/

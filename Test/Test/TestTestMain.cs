@@ -10,7 +10,7 @@ namespace Test
 		{
 			TestClassKurasu B = new TestClassKurasu();
 			TestClassKeisyou C = new TestClassKeisyou(23);
-
+			ParcialClass PC = new ParcialClass();	//別にファイル名が一致してなくても良い
 			B.Method1();
 			C.Method1();
 			Console.WriteLine(B.hight);

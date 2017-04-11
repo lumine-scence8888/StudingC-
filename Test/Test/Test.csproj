@@ -29,9 +29,14 @@
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TestClassKurasu.cs" />
     <Compile Include="TestClassKeisyou.cs" />
+    <Compile Include="TestClassKurasu.cs" />
     <Compile Include="TestTestMain.cs" />
+    <Compile Include="AbstractParent.cs" />
+    <Compile Include="AbstractChild.cs" />
+    <Compile Include="ParcialClass01.cs" />
+    <Compile Include="ParcialClass02.cs" />
+    <Compile Include="ParcialClass03.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
