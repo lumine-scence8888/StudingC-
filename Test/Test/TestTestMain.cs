@@ -14,7 +14,7 @@ namespace Test
 			B.Method1();
 			C.Method1();
 			Console.WriteLine(B.hight);
-			//B.hight = 787;	//アクセッサがない場合そもそもコンパイラが通さない。
+			//B.hight = 787;	//アクセッサがない場合認識されない
 		}
 	}
 }
