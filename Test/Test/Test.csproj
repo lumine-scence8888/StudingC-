@@ -37,6 +37,7 @@
     <Compile Include="ParcialClass01.cs" />
     <Compile Include="ParcialClass02.cs" />
     <Compile Include="ParcialClass03.cs" />
+    <Compile Include="InterfaceTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
