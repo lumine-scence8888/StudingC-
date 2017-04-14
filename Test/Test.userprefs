@@ -9,7 +9,7 @@
       <File FileName="Test/ParcialClass02.cs" Line="11" Column="1" />
       <File FileName="Test/ParcialClass03.cs" Line="7" Column="44" />
       <File FileName="Test/AbstractChild.cs" Line="9" Column="56" />
-      <File FileName="Test/InterfaceTest.cs" Line="24" Column="60" />
+      <File FileName="Test/InterfaceTest.cs" Line="24" Column="63" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

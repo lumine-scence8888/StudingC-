@@ -21,7 +21,7 @@ namespace Test
 	}
 
 
-	public class IT:InterfaceTest, IInterfaceTest	//抽象メンバは全部実装する。
+	public class IT:InterfaceTest, IInterfaceTest	//継承したインターフェイスの抽象メンバは全部実装する。
 	{
 		private string name;
 		private string subName;
